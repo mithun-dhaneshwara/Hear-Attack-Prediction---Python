@@ -1,0 +1,6 @@
+Python is a good language 
+Python is easy to understand 
+Now I am learning python
+First Line
+Second Line
+Third Line
